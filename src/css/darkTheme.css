@@ -1,12 +1,15 @@
 @import url('https://rsms.me/inter/inter.css');
 
 
+
+
 *,
 body,
 html {
     margin: 0;
     padding: 0;
 }
+
 
 
 .avatar img {
